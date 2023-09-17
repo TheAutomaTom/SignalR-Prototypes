@@ -1,9 +1,0 @@
-{
-  "profiles": {
-    "SignalR_POC.AzureFuncs": {
-      "commandName": "Project",
-      "commandLineArgs": "--port 7073",
-      "launchBrowser": false
-    }
-  }
-}
