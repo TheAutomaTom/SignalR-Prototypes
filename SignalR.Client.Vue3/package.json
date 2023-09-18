@@ -1,5 +1,5 @@
 {
-  "name": "signalr-poc-vue3",
+  "name": "signalr-client-vue3",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -11,9 +11,11 @@
   },
   "dependencies": {
     "@microsoft/signalr": "^7.0.10",
+    "crypto-js": "^4.1.1",
     "vue": "^3.2.47"
   },
   "devDependencies": {
+    "@types/crypto-js": "^4.1.2",
     "@types/node": "^18.14.0",
     "@vitejs/plugin-vue": "^4.0.0",
     "@vue/tsconfig": "^0.1.3",

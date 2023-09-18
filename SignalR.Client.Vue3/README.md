@@ -1,4 +1,4 @@
-# SignalR-POC.Vue3
+# Signal.Client.Vue3
 
 An example of a functioning Vue3 SignalR client.
 

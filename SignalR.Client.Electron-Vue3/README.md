@@ -1,7 +1,7 @@
 
 
 ---
-# SignalR-POC.Electron-Vue3
+# SignalR.Client.Electron-Vue3
 
 An example of a functioning Electron with Vue3 SignalR client.
 
